@@ -24,7 +24,11 @@ This paper-based system was:
 * Frequently lost
 * Disruptive to customer service during peak hours
 
----
+See example images of a filled out Par Sheet below:
+
+![example 2](https://github.com/user-attachments/assets/93ffa52b-ccef-42c6-9747-c8f0ebeeae9a)
+![example 1](https://github.com/user-attachments/assets/ccfe7a7d-83c1-4b9d-a11e-0f331c53bdcd)
+
 
 ### 💡 The Solution
 

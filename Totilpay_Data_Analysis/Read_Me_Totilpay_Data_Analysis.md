@@ -28,11 +28,9 @@ With more dedicated time and larger datasets, we can further explore the potenti
 The first table in Tableau plots the count of `Response Text` instances by market.  
 
 **Example insights:**
-- **Insufficient Funds** – Highest need for advocacy: MEM, Elm Hill, Hyde Park, Neponset.  
-- **Invalid PIN – Retry** – Highest need: Elm Hill, MEM, Charlestown.  
-- **Restricted Card** – Highest need: Franklin Field BHA, West Broadway, Elm Hill, Neponset.  
-
-Full `Response Text Data Dictionary` [here](https://docs.google.com/spreadsheets/d/1ei-4zdohkVW0ffRwH0YIHNC3LV_x4xSjjLNlpnjjxPQ/edit?usp=sharing).
+- **Insufficient Funds** – Highest need for advocacy: -PROPRIETARY-  
+- **Invalid PIN – Retry** – Highest need: -PROPIETARY-  
+- **Restricted Card** – Highest need: -PROPRIETARY- 
 
 ---
 
@@ -40,7 +38,7 @@ Full `Response Text Data Dictionary` [here](https://docs.google.com/spreadsheets
 
 ### Card Not Found
 - **Meaning:** Card is no longer active — DTA does not recognize it.  
-- **Solution:** Ask customer if they have a newer card or still receive benefits. Dispose of inactive card.
+- **Solution:** Ask customer if they have a newer card or still receive benefits. 
 
 ### Insufficient Funds
 - **Meaning:** Card balance is less than total amount charged.  
@@ -65,14 +63,15 @@ Full `Response Text Data Dictionary` [here](https://docs.google.com/spreadsheets
 ### 1. Count of Unique Cards by Market
 - Model built to verify uniqueness of card numbers per market.  
 - Initial estimates (June 2025):  
-  - SNAP money used: **$7,388 – $7,584.15**  
-  - Unique cards: **2,305 – 2,395**  
+  - HIP money used: **~85%**
+  - SNAP money used: **~%15**  
+  - Unique cards: **~2,300**  
 - More statistical validation needed.
 
 ### 2. Extra Swipes per Market
 Helps identify:
 1. Markets with customers having low balances.
-2. Populations using full HIP/SNAP allowance monthly.
+2. Populations using full HIP/SNAP allowance monthly, This can be shared with advocay groups for campaigns.
 
 ### 3. Repeat Customers Across Markets
 Using last 4 digits of card numbers to infer repeat visits.  
@@ -93,9 +92,7 @@ Using last 4 digits of card numbers to infer repeat visits.
 ---
 
 ## Moving Forward
-- Need **5 dedicated hours/week** for analysis (currently only 2).  
-- Requesting Thursdays 9am–12pm for focused work.  
-- Require monthly Totilpay reports from Operations Manager.  
+- This analyst needs more time to work on this project.
 
 ---
 
